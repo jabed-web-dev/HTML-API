@@ -22,10 +22,10 @@
   * [`<section>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_section)
   * [`<div>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_div_test)
   * [`<nav>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_nav)
+  * [`<aside>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_aside2)
   * [`<search>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_search)
   * [`<hgroup>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_hgroup)
   * [`<article>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_article2)
-  * [`<aside>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_aside2)
   * [`<address>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_address)
   * [`<template>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_template)
 
