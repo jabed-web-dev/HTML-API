@@ -5,6 +5,7 @@
 <details open><summary><a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_html"><code>&lt;html></code></a></summary><blockquote>
 <details open><summary><a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_head"><code>&lt;head></code></a></summary><blockquote>
 
+**Document Metadata**
   * [`<meta/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_meta)
   * [`<title>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_title)
   * [`<base/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_base_test)
