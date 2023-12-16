@@ -99,7 +99,7 @@
   * [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog#html-only_dialog)
   * [`<hr/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_hr_test)
 
-**Text Content edits**
+**Edit Text Content**
   * [`<span>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_span)
   * [`<abbr>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_abbr_test)
   * [`<bdi>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_bdi)
