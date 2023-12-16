@@ -30,9 +30,9 @@
   * [`<template>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_template)
 
 **Embedded Content**
-  * [`<img/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test)
   * [`<embed>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_embed)
   * [`<object>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_object)
+  * [`<img/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test)
   * [`<picture>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_picture)
     * [`<source/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_source_src)
   * [`<video>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video)
