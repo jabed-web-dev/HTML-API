@@ -30,11 +30,11 @@
   * [`<template>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_template)
 
 **Embedded Content**
+  * [`<img/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test)
   * [`<embed>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_embed)
   * [`<object>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_object)
   * [`<picture>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_picture)
     * [`<source/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_source_src)
-  * [`<img/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test)
   * [`<video>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_video)
     * [`<source/>`](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_source_src)
     * [`<track/>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
