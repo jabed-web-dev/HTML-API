@@ -1,6 +1,6 @@
 # HTML-API
 
-[\<!DOCTYPE html>](https://www.w3schools.com/tags/tag_doctype.asp)
+[`<!DOCTYPE html>`](https://www.w3schools.com/tags/tag_doctype.asp)
 
 <details open><summary><a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_html"><code>&lt;html></code></a></summary><blockquote>
 <details open><summary><a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_head"><code>&lt;head></code></a></summary><blockquote>
