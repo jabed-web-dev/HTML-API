@@ -16,6 +16,7 @@
   * [`inputmode`](https://www.w3schools.com/tags/att_global_inputmode.asp)
   * [`lang`](https://www.w3schools.com/tags/att_global_lang.asp)
   * [`popover`](https://www.w3schools.com/tags/att_global_popover.asp)
+  * [`role`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
   * [`spellcheck`](https://www.w3schools.com/tags/att_global_spellcheck.asp)
   * [`style`](https://www.w3schools.com/tags/att_global_style.asp)
   * [`tabindex`](https://www.w3schools.com/tags/att_global_tabindex.asp)
