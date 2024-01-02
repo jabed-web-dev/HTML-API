@@ -16,6 +16,7 @@
   * [`inputmode`](https://www.w3schools.com/tags/att_global_inputmode.asp)
   * [`lang`](https://www.w3schools.com/tags/att_global_lang.asp)
   * [`popover`](https://www.w3schools.com/tags/att_global_popover.asp)
+  * [`slot`](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots)
   * [`role`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
   * [`spellcheck`](https://www.w3schools.com/tags/att_global_spellcheck.asp)
   * [`style`](https://www.w3schools.com/tags/att_global_style.asp)
@@ -92,7 +93,8 @@
   * [`<hgroup>`](https://www.w3schools.com/tags/tag_hgroup.asp)
   * [`<article>`](https://www.w3schools.com/tags/tag_article.asp)
   * [`<address>`](https://www.w3schools.com/tags/tag_address.asp)
-  * [`<template>`](https://www.w3schools.com/tags/tag_template.asp)
+  * [`<template>`](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots)
+    * [`<slot>`](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots)
 
 **Embedded Content**
   * <details><summary><a href="https://www.w3schools.com/tags/tag_embed.asp"><code>&lt;embed></code></a></summary><blockquote>
