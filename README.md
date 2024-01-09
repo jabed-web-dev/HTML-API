@@ -210,14 +210,6 @@
     * [`width`](https://www.w3schools.com/tags/att_iframe_width.asp)
     </blockquote></details>
 
-  * <details><summary><a href="https://www.w3schools.com/tags/tag_canvas.asp"><code>&lt;canvas></code></a></summary><blockquote>
-
-    * [`height`](https://www.w3schools.com/tags/att_canvas_height.asp)
-    * [`width`](https://www.w3schools.com/tags/att_canvas_width.asp)
-    </blockquote></details>
-
-  * [`<svg>`](https://www.w3schools.com/tags/tag_svg.asp)
-
 **Form Elements**
   * <details><summary><a href="https://www.w3schools.com/tags/tag_form.asp"><code>&lt;form></code></a></summary><blockquote>
 
@@ -728,6 +720,16 @@
 
   * [`<noscript>`](https://www.w3schools.com/tags/tag_noscript.asp)
 
+**Graphics Elements**
+  * <details><summary><a href="https://www.w3schools.com/tags/tag_canvas.asp"><code>&lt;canvas></code></a></summary><blockquote>
+
+    * [`height`](https://www.w3schools.com/tags/att_canvas_height.asp)
+    * [`width`](https://www.w3schools.com/tags/att_canvas_width.asp)
+    </blockquote></details>
+
+  * [`<svg>`](https://www.w3schools.com/tags/tag_svg.asp)
+
 </blockquote></details>
+
 
 </blockquote></details>
