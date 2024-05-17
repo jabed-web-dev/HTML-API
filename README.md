@@ -686,7 +686,7 @@
   * <details><summary><a href="https://www.w3schools.com/tags/tag_progress.asp"><code>&lt;progress></code></a></summary><blockquote>
 
     * [`max`](https://www.w3schools.com/tags/att_progress_max.asp)
-    * [`value`](hhttps://www.w3schools.com/tags/att_progress_value.asp)
+    * [`value`](https://www.w3schools.com/tags/att_progress_value.asp)
     </blockquote></details>
 
   * <details><summary><a href="https://www.w3schools.com/tags/tag_meter.asp"><code>&lt;meter></code></a></summary><blockquote>
