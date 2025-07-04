@@ -125,7 +125,7 @@
 
   * [`<hr/>`](https://www.w3schools.com/tags/tag_hr.asp)
 
-**Inline and Format Text**
+**Inline and Text Format**
   * [`<span>`](https://www.w3schools.com/tags/tag_span.asp)
   * [`<noscript>`](https://www.w3schools.com/tags/tag_noscript.asp)
   * [`<code>`](https://www.w3schools.com/tags/tag_code.asp)
