@@ -152,6 +152,7 @@
   * [`<s>`](https://www.w3schools.com/tags/tag_s.asp)
   * [`<em>`](https://www.w3schools.com/tags/tag_em.asp)
   * [`<i>`](https://www.w3schools.com/tags/tag_i.asp)
+  * [`<cite>`](https://www.w3schools.com/tags/tag_cite.asp)
   * <details><summary><a href="https://www.w3schools.com/tags/tag_del.asp"><code>&lt;del></code></a></summary><blockquote>
 
     * [`cite`](https://www.w3schools.com/tags/att_del_cite.asp)
