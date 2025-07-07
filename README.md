@@ -142,6 +142,15 @@
   * [`<figure>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure)
     * [`<figcaption>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figcaption)
 
+  * <details><summary><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset"><code>&lt;fieldset></code></a></summary><blockquote>
+
+    * [`disabled`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#disabled)
+    * [`form`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#form)
+    * [`name`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#name)
+    </blockquote></details>
+
+    * [`<legend>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset)
+
   * <details><summary><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog"><code>&lt;dialog></code></a></summary><blockquote>
 
     * [`closedby`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#closedby)
@@ -407,15 +416,6 @@
     * [`target`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form#target)
     </blockquote></details>
 
-    * <details><summary><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset"><code>&lt;fieldset></code></a></summary><blockquote>
-
-      * [`disabled`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#disabled)
-      * [`form`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#form)
-      * [`name`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset#name)
-      </blockquote></details>
-
-      * [`<legend>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset)
-
     * <details><summary><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input"><code>&lt;input/></code></a></summary><blockquote>
 
       * [`disabled`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/disabled)
@@ -634,8 +634,6 @@
       * [`reset`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/reset)
         
       </blockquote></details>
-
-    <!-- **************** -->
 
     * <details><summary><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label"><code>&lt;label></code></a></summary><blockquote>
 
