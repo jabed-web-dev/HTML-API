@@ -790,7 +790,6 @@
 
 **Scripting Elements**
   * [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script)
-  * [`<noscript>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/noscript)
   * [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog)
   * [`<canvas>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/canvas)
 
